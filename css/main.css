@@ -2,7 +2,10 @@ body {
   margin: 60px-auto;
   width: 70%
 }
-h2{
-    font-family: Palatino, 'Palatino Linotype', serif;
-    color: red;
+nav u1, footer u1 { 
+ font-family:'Helvetica', 'Arial', 'Sans-Serif';
+  padding: 0px;
+  list-style:none;
+  font-weight:bold;
+  color:red;
 }
