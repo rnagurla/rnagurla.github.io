@@ -12,6 +12,10 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+li{
+    color: Gainsboro;
+    text-decoration: none;
+}
 a {
     text-decoration: none;
     color: Gainsboro;
