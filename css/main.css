@@ -9,6 +9,21 @@ nav ul, footer ul {
     font-weight: bold;
     color: Gainsboro;
 }
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+footer.li{
+    list-style: none;
+}
+footer.posts{
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
